@@ -74,9 +74,11 @@ transition:all 0.3s;
 -webkit-text-stroke-color: #eb0965;
 letter-spacing:3px;
 transition:0.3s;
-color:rgba(0,0,0,0.3);
+color:rgba(255,255,255,0);
 font-size:11vw;
 font-weight:900!important;
+margin-left:1vw;
+margin-right:1vw;
 }
 
 /*Sub level items
