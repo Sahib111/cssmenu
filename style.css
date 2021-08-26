@@ -237,7 +237,6 @@ color:#FFFFFF;
     #cssmenu.active {
   animation:fadeOut!important;
         animation-duration:3s!important;
-        left:-130%;
         transition:all 2011ms cubic-bezier(.16,.76,.45,1);
     }
 
