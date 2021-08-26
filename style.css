@@ -70,11 +70,11 @@ transition:all 0.3s;
 }
 
 #cssmenu li:hover > span, #cssmenu li:hover > a {  
--webkit-text-stroke-width: 1.7px;
+-webkit-text-stroke-width: 2px;
 -webkit-text-stroke-color: #eb0965;
 letter-spacing:3px;
 transition:0.3s;
-color:rgba(255,255,255,0);
+color:rgba(128,128,128,0.3);
 font-size:11vw;
 font-weight:900!important;
 margin-left:1vw;
