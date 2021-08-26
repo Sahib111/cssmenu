@@ -1,4 +1,4 @@
-//<![CDATA[
+
     function toggleCssMenu(icon) {
         var cssmenu = document.getElementById('cssmenu');
         if (icon.className.indexOf('active') == -1) {
@@ -12,4 +12,3 @@
 			setTimeout(function(){cssmenu.style.display = "none";},411); 
         }
     }
-//]]>
