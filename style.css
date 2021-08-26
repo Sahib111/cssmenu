@@ -226,8 +226,6 @@ color:#FFFFFF;
     /*--begin mark1--*/
 
     #cssmenu  {
-        animation:fadeIn!important;
-        animation-duration:2s!important;
         position:fixed;top:0;bottom:0;left:0;right:0;height:100%!important;
         left:0;
         bottom:auto; box-shadow:0 4px 18px rgba(0,0,0,0.3);
@@ -235,6 +233,8 @@ color:#FFFFFF;
     }
 
     #cssmenu.active {
+        animation:fadeIn!important;
+        animation-duration:2s!important;
         transition:all 2011ms cubic-bezier(.16,.76,.45,1);
     }
 
