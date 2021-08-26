@@ -235,9 +235,9 @@ color:#FFFFFF;
     }
 
     #cssmenu.active {
-        animation:fadeOut!important;
-        animation-duration:999999s!important;
-        left:0;
+  animation:fadeOut!important;
+        animation-duration:3s!important;
+        left:-130%;
         transition:all 2011ms cubic-bezier(.16,.76,.45,1);
     }
 
