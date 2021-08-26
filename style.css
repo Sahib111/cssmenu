@@ -72,7 +72,7 @@ transition:all 0.3s;
 #cssmenu li:hover > span, #cssmenu li:hover > a {  
 letter-spacing:3px;
 transition:0.3s;
-color:#e04182;
+color:#d47fa2;
 font-size:11vw;
 font-weight:900!important;
 margin-left:15vw;
